@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @hramasimpaniry, also known as Heritiana.  
+- 👀 I’m passionate about creating sleek, responsive, and user-centric web applications with or without frameworks.  
+- 🌱 I’m currently exploring ThreeJS to add immersive 3D elements to my projects. 
+- 💞️ I’m looking to collaborate on innovative web development projects, from UI/UX design to performance optimization.  
+- 📫 How to reach me: Drop me an email at hramasimpaniry@gmail.com.  
+- 😄 Pronouns: He/Him.  
+- ⚡ Fun fact: I thrive on solving complex challenges and love finding elegant solutions to make the web faster and more accessible. 
